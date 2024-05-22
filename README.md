@@ -2,9 +2,6 @@
 
 # ML_Slinear_Regression
 
-![GitHub repo size](https://img.shields.io/github/repo-size/ZahraRezaei672/ML_Slinear_Regression)
-
-
 ML_Slinear_Regression is a program to obtain simple linear regression of two random arrays.
 
 Instalation 
