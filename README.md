@@ -1,4 +1,4 @@
-![simple linear regression](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqQDTogLPjuNNizYgCK5qKVRyBWJfByawy5w&s)
+![simple linear regression](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ1kNAJY6wgEK_RQ3q6dQtCs_SqMjs7siukw&s)
 
 # ML_Slinear_Regression
 
